@@ -1,5 +1,5 @@
 {% set name = "pdm-pep517" %}
-{% set version = "0.12.4" %}
+{% set version = "0.12.5" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pdm-pep517-{{ version }}.tar.gz
-  sha256: e918b7b3850f42cbbf5a6b71e75d43c3dca0be624c25e59dfda5bb6224a20e7c
+  sha256: cfd15e5498579186bdc0a1a7b6eea9f983e7c3a7dd1a2a7b0ad22d05d6dc5099
 
 build:
   number: 0
