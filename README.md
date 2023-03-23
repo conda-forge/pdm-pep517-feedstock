@@ -1,11 +1,11 @@
-About pdm-pep517
-================
+About pdm-pep517-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pdm-pep517-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/pdm-pep517/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pdm-pep517-feedstock/blob/main/LICENSE.txt)
 
 Summary: A PEP 517 backend for PDM that supports PEP 621 metadata
 
